@@ -1,0 +1,19 @@
+{
+    "1.0.0.0": {
+        "updates": [
+            "added radioactive material", 
+            "added radioactive block", 
+            "added Wall Climbing Glove", 
+            "added anti-gravity block", 
+            "added anti-gravity particles"
+        ]
+    }, 
+
+    "1.1.0.0": {
+        "updates": [
+            "added die-ball & die-ball spawn egg", 
+            "make radioactive material eatable"
+        ]
+    }
+
+}
